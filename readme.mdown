@@ -1,0 +1,10 @@
+# SASS Watch Alfred Plugin 
+
+A plugin written in applescript for Alfred that allows easy development for writing SASS. Requires Alfred's power pack to enable extensions.
+
+## Instructions
+
+1.  Download or Pulldown the repo
+1.  Double click on the sass.alfredextension file to open
+
+By default the keyword is set to SASS, this can be set to your preference.
