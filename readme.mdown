@@ -1,3 +1,6 @@
+# This has been depracated
+
+--- 
 # SASS Watch Alfred Plugin 
 
 A plugin written in applescript for Alfred that allows easy development for writing SASS. Requires Alfred's power pack to enable extensions.
